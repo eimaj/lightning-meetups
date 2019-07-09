@@ -6,19 +6,27 @@ The goal of this project is to create an welcoming space where anyone can get up
 
 There is no expectation that talks be well-rounded and complete. The hope is that this be more of a forum for exploration and learning.
 
+---
+
 ## Format
 
-Each talk will have a 15 minute window for talking and questions.
+Each talk will have a 5 minutes to present followed by 5 to 10 minutes for Q&A. 
 
 Talks can be in any format (i.e. lecture, live code, long winded ramble, etc.)
 
 Up to three talks will be booked. If there is time and interest more talks can be added on a first-come, first-served basis.
+
+---
 
 ## Tech
 
 In order to keep the transition between presentations to a minimum each presentations will be staged on the same machine.
 
 As a result of this, any resources needed for the presentation should be publicly available online before the event.
+
+Presenters should ideally show up ahead of time to load up their resources on the presentation machine to test the AV setup.
+
+---
 
 ## Inspiration
 
